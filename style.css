@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #EEE;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    margin: 0;
+    max-width: 100%;
+    background-color:#E4F9E5;
+    padding: 10px;
+}
+.image{
+    height: 120px;
+    width: 100px;
+    border-radius: 50%;
+    border: 3px solid white;
+    float: left;
+}
+.header_bio{
+    float: left;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+.hearder_bio2{
+    float: right;
+    padding: 30px;
+   
+}
+.hearder_bio2 p a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+.div_clear{
+    clear: both;
+}
+.horigental{
+    border:1px solid black;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.per_info{
+
+}
+.content{
+   
+}
+
+.left_div{
+    float: left;
+    width: 30%;
+}
+.right_div{
+    float:left;
+    width: 70%;
+}
+.horigental2{
+    border:1px solid black;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.right1_div{
+    width: 30%;
+    float: right;
+    margin:20px auto;
+}
+.on_right{
+    width: 30%;
+    float: left;
+    margin: 20px auto;
+}
+.footer{
+    background-color: black;
+    padding: 15px;
+    text-align: center;
+    padding-bottom: 60px;
+   
+}
+.footer a{
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+}
